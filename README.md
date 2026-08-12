@@ -102,7 +102,7 @@ I combine **experimental biology with computational analysis** to move from:
 
 **Biological Question → Experimental Data → Genomic/Transcriptomic Analysis → Statistical Modeling → Visualization → Biological Interpretation → Experimental Validation**
 
-I am particularly interested in developing reproducible computational approaches that generate **biologically testable hypotheses** and can ultimately be connected back to experimental cancer biology.
+I am particularly interested in applying computational and multi-omics approaches to generate **biologically meaningful hypotheses** and understand the molecular mechanisms underlying cancer progression, heterogeneity, and therapeutic response.
 
 ---
 
