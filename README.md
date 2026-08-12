@@ -124,8 +124,8 @@ My doctoral research focused on **integrative multi-omics profiling of prostate 
 ## 🌐 Connect
 
 * **GitHub:** [tanayb001](https://github.com/tanayb001)
-* **LinkedIn:** linkedin.com/in/tanay-biswas
-* **Google Scholar:** scholar.google.com/tanay-biswas
+* **LinkedIn:** (linkedin.com/in/tanay-biswas)
+* **Google Scholar:** (scholar.google.com/tanay-biswas)
 
 ---
 
